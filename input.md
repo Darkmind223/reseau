@@ -2,12 +2,12 @@
 
 I.  **Exploration des outils de reconnaissance réseau**
 
--   **[Nmap (Network Mapper) :]{.underline}**
+-   **[Nmap (Network Mapper) :]
 
 > Cette commande lance des scripts pour identifier les vulnérabilités
 > connues sur l'hôte
 
--   **[Permet de :]{.underline}**
+-   **[Permet de :]
 
 ```{=html}
 <!-- -->
@@ -22,7 +22,7 @@ I.  **Exploration des outils de reconnaissance réseau**
 Elle utilise différentes options pour scanner des réseaux parmi elles on
 a :
 
-1.  **[Balayage d\'hôtes actifs :]{.underline}**
+1.  **[Balayage d\'hôtes actifs :]
 
 > [nmap -sn 192.168.1.0/24]{.mark}
 
